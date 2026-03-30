@@ -91,8 +91,9 @@ Run the file and it will tell you the recommended crop!
 
 This tool can help small and marginal farmers — especially in states like Madhya Pradesh — make data-driven decisions about crop selection, potentially improving yield and reducing financial risk.
 
-## 👤 Author
+## 👤 SUBMITTED BY
 
-- **Name:** Chitra Prabhakar 
+- **Name:** Chitra Prabhakar
+- **Reg NO.:** 25BAI10934
 - **Course:** Fundamentals of AI and ML
 - **Institution:** VIT BHOPAL UNIVERSITY 
