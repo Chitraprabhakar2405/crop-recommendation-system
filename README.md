@@ -43,7 +43,7 @@ crop-recommendation/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/crop-recommendation.git
+git clone https://github.com/Chitraprabhakar2405/crop-recommendation-system.git
 cd crop-recommendation
 ```
 
